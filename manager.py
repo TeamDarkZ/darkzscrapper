@@ -14,7 +14,7 @@ r = Fore.RED
 n = Fore.RESET
 lg = Fore.LIGHTGREEN_EX
 f = pyfiglet.Figlet(font='slant')
-banner = f.renderText('DarkZ Adder')
+banner = f.renderText('DarkZ')
 print(r)
 print(banner)
 print(n)
